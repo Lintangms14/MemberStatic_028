@@ -26,7 +26,8 @@ angka::~angka() {
 }
 
 void angka::cetakdata() {
-	for (int i = i <= panjang; i++;) {
+	for (int i = 1; i <= panjang; i++) {
 		cout << i << " = " << arr[i] << endl;
 	}
 }
+
