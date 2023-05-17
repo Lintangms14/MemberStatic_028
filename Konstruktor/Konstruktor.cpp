@@ -12,5 +12,5 @@ public:
     mahasiswa(string);
     mahasiswa(int inim, string inama);
     
-    void cetak(;)
+    void cetak();
 };
