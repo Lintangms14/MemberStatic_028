@@ -22,4 +22,5 @@ int main()
 	bukunya.setjudul("matematika");
 	cout << bukunya.getjudul();
 	cout << bukunya.setjudul("matematika").getjudul();
+	return 0;
 }
